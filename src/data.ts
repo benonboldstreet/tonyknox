@@ -18,7 +18,7 @@ import fineArtImg3 from './assets/images/fineart_mfa_thesis_1783495862345.jpg';
 // @ts-ignore
 import mothmanImg1 from './assets/images/mothman_performance_art_1783495165539.jpg';
 // @ts-ignore
-import portraitImg from './assets/images/tony_knox_portrait_final_1783497935570.jpg';
+import portraitImg from './assets/images/tony_portrait_real_1783496432797.jpg';
 
 export const profilePortrait = portraitImg;
 
