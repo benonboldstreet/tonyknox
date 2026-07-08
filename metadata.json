@@ -1,0 +1,6 @@
+{
+  "name": "Tony Knox Portfolio",
+  "description": "Professional portfolio for Tony Knox, a UK ringside photographer, fine artist, and curator, showcasing ringside wrestling action, contemporary curation, and the MothMan project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
